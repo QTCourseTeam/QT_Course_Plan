@@ -1,0 +1,77 @@
+# QT Collaborative Project: Step-by-Step Task Guide
+
+## 1. Git & Project Setup
+
+1. Install Git and Qt Creator (or preferred IDE).
+2. Generate your SSH key:  
+   `ssh-keygen -t ed25519 -C "your_email@example.com"`
+3. Add your public key to GitHub (Settings → SSH and GPG keys).
+4. Clone the project repository:  
+   `git clone git@github.com:11463144nfu/QT_Course_Plan.git`
+5. Configure your Git identity:  
+   `git config --global user.name "Your Name"`  
+   `git config --global user.email "your_email@example.com"`
+
+---
+
+## 2. Joining the Team & Branching
+
+1. Make sure you are added as a collaborator on the GitHub project.
+2. Pull the latest changes:  
+   `git pull origin main`
+3. Create a new branch for your assigned feature:  
+   `git checkout -b feature/your-task`
+4. Confirm branch creation:  
+   `git branch`
+
+---
+
+## 3. Collaborative Coding with Qt & Copilot
+
+1. Open the project in Qt Creator or VS Code.
+2. Enable GitHub Copilot extension in your IDE.
+3. Start coding your assigned feature or module.
+4. Use Copilot to suggest code and UI elements.
+5. Discuss design choices and coordinate with teammates.
+6. Frequently commit your changes:  
+   `git add .`  
+   `git commit -m "Add [your feature]"`
+7. Push your branch to GitHub:  
+   `git push origin feature/your-task`
+
+---
+
+## 4. Integration & Pull Requests
+
+1. After completing your feature, ensure it builds and runs without errors.
+2. Go to GitHub and open a Pull Request (PR) from your branch to `main`.
+3. Assign teammates for code review.
+4. Discuss and resolve any review comments or merge conflicts.
+5. Once approved, merge the PR.
+
+---
+
+## 5. Clean-up & Finalization
+
+1. Delete your merged branch on GitHub.
+2. On your local machine:  
+   `git fetch --prune`  
+   `git branch -d feature/your-task`
+3. Pull latest changes from `main`:  
+   `git pull origin main`
+
+---
+
+## 6. Final Testing & Presentation
+
+1. Run full testing on the integrated project as a team.
+2. Prepare a demo showing the teamwork and workflow.
+3. Discuss how Git and Copilot facilitated the process.
+
+---
+
+## Reference Links
+
+- [GitHub SSH Key Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- [Qt Documentation](https://doc.qt.io/)
+- [GitHub Copilot](https://github.com/features/copilot)
