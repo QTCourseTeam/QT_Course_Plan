@@ -12,12 +12,21 @@
 
 # 10/20 Homework requirement draft
 learning cooperation
+
 add member to project cooperation
+
 create branch
+
 complete self work
+
 testing no issue
+
 push to remote
+
 create pull request to main branch
+
 delete old branch
+
 fetch back to local
+
 delete local branch
