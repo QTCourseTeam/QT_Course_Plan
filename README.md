@@ -17,6 +17,11 @@ add member to project cooperation
 
 create branch
 
+|role|work|
+|----|----|
+|leader|write a student loging page|
+|member|write guardian login page|
+
 complete self work
 
 testing no issue
