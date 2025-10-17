@@ -19,7 +19,7 @@ create branch
 
 |role|work|
 |----|----|
-|leader|write a student loging page|
+|leader|write a student login page|
 |member|write guardian login page|
 
 complete self work
