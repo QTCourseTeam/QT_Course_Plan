@@ -10,7 +10,7 @@
 7. push commits with ssh
 
 
-# 10/20 Homework requirement draft
+## 10/20 Homework requirement draft
 learning cooperation
 
 add member to project cooperation
