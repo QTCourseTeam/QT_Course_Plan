@@ -10,21 +10,27 @@
 7. push commits with ssh
 
 
-## 10/20 Homework requirement draft
+## 10/20 Homework requirement
 learning cooperation
 
 add member to project cooperation
 
 create branch
 
-|role|work|
-|----|----|
-|leader|write a student login page|
-|member|write guardian login page|
+---
 
-complete self work
+## Todo Oct.10.27
+### Not finish
 
-testing no issue
+clone project from org.
+
+create branch from project `main` branch
+
+each student should create their own branch
+
+prefix name should be student ID.
+
+`ex-branch: 41343100-xxx`
 
 push to remote
 
