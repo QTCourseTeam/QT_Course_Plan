@@ -20,13 +20,13 @@ create branch
 ---
 
 ## Todo Oct.10.27
-### Not finish
+### Pending to do
 
 clone project from org.
 
 create branch from project `main` branch
 
-each student should create their own branch
+each student create their own branch
 
 prefix name should be student ID.
 
