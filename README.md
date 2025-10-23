@@ -26,7 +26,7 @@ clone project from org.
 
 create branch from project `main` branch
 
-each student fork the repository to their own repository
+each student create their own branch
 
 prefix name should be student ID.
 
